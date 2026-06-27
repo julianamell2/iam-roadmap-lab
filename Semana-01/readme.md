@@ -31,6 +31,9 @@ del DC funcionaron en el primer intento.
 
 ## Evidencia
 ![DC instalado](screenshots/1.png)
+
 ![AD Users and Computers](screenshots/3.png)
+
 ![DNS Manager](screenshots/2.png)
+
 ![Usuario de prueba](screenshots/4.png)
