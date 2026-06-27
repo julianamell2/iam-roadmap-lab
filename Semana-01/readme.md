@@ -30,10 +30,36 @@ Sin incidentes — instalación y promoción
 del DC funcionaron en el primer intento.
 
 ## Evidencia
-[DC instalado](screenshots/1.png)
+## Evidencia
 
-[AD Users and Computers](screenshots/3.png)
+<table border="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <figure>
+        <img src="screenshots/1.png" alt="DC instalado" width="100%">
+        <figcaption><b>DC instalado</b></figcaption>
+      </figure>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <figure>
+        <img src="screenshots/3.png" alt="AD Users and Computers" width="100%">
+        <figcaption><b>AD Users and Computers</b></figcaption>
+      </figure>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <figure>
+        <img src="screenshots/2.png" alt="DNS Manager" width="100%">
+        <figcaption><b>DNS Manager</b></figcaption>
+      </figure>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <figure>
+        <img src="screenshots/4.png" alt="Usuario de prueba" width="100%">
+        <figcaption><b>Usuario de prueba</b></figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
-[DNS Manager](screenshots/2.png)
-
-[Usuario de prueba](screenshots/4.png)
